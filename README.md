@@ -37,8 +37,7 @@ The analysis uses the **Telco Customer Churn Dataset** (sourced from IBM / Kaggl
 ---
 
 ## c. GitHub Repository Link
-**Repository URL**: `https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPOSITORY_NAME>`  
-*(Update with your public GitHub repository link)*
+**Repository URL**: `https://github.com/Janani3697/telco-customer-churn-ml`
 
 ### Repository Layout:
 ```text
@@ -96,8 +95,8 @@ Five classification models were trained on the training partition and evaluated 
 
 ## e. Streamlit Web Application
 - **Platform**: Streamlit Community Cloud
-- **Live App URL**: `https://<YOUR_APP_SUBDOMAIN>.streamlit.app`  
-  *(Update with your deployed link)*
+- **Live App URL**: `https://telco-customer-churn-ml
+kfv6xiiez9wuxizqgvkcad.streamlit.app/`  
 
 ### Application Overview:
 1. **Test Data Ingestion**: Supports uploading any test CSV containing the 19 features and target column, with an option to load the bundled 1,409 test instances.
