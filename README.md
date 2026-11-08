@@ -95,8 +95,7 @@ Five classification models were trained on the training partition and evaluated 
 
 ## e. Streamlit Web Application
 - **Platform**: Streamlit Community Cloud
-- **Live App URL**: `https://telco-customer-churn-ml
-kfv6xiiez9wuxizqgvkcad.streamlit.app/`  
+- **Live App URL**: `https://telco-customer-churn-ml-kfv6xiiez9wuxizqgvkcad.streamlit.app/`  
 
 ### Application Overview:
 1. **Test Data Ingestion**: Supports uploading any test CSV containing the 19 features and target column, with an option to load the bundled 1,409 test instances.
